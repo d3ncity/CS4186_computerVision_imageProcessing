@@ -1,0 +1,5 @@
+Art: The Peak-SNR value is 13.2518
+
+Dolls: The Peak-SNR value is 10.3753
+
+Reindeer: The Peak-SNR value is 13.5368
